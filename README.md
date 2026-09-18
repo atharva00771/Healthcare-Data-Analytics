@@ -205,37 +205,3 @@ through practical projects.
 </p>
 ```
 
-## 3. उद्या SQL upload केल्यावर Structure
-
-<box border={{size:1,color:"subtle"}} radius="xl" padding={4} gap={2}>
-  <row align=center gap={2}>
-    <icon name="folder" color="#EAB308"/>
-    **Healthcare-Data-Analytics**
-  </row>
-  <box padding={{left:4}} gap={2}>
-    <row align=center gap={2}>
-      <icon name="file" color="#3B82F6"/>
-      `Healthcare_Dashboard.pbix`
-    </row>
-    <row align=center gap={2}>
-      <icon name="folder" color="#EAB308"/>
-      **images/**
-    </row>
-    <row align=center gap={2}>
-      <icon name="folder" color="#EAB308"/>
-      **SQL/**
-    </row>
-    <box padding={{left:6}}>
-      <row align=center gap={2}>
-        <icon name="file-code" color="#22C55E"/>
-        `healthcare_analysis.sql`
-      </row>
-    </box>
-    <row align=center gap={2}>
-      <icon name="file-text" color="#64748B"/>
-      `README.md`
-    </row>
-  </box>
-</box>
-
-**Important:** आज README मध्ये SQL section ठेवला आहे. उद्या queries upload केल्यावर फक्त SQL file आणि progress update करायचा आहे.
